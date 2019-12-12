@@ -6,6 +6,7 @@ Client is built in Android Stuido with a socket connected to port 3000
 
 In general, users have to register a username to start. In order to send message, user types into chatbox and press send.
  
+Language: Kotlin
 Design pattern: Observer
 
 _Register Button: User click button and open dialog where they can type username and press login. If username has been taken,

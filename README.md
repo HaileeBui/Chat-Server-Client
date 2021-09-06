@@ -2,7 +2,7 @@
 
 
 The project includes server part and client part. Server is built on IntelliJ IDEA with port 3000.
-Client is built in Android Stuido with a socket connected to port 3000
+Client is built in Android Studio with a socket connected to port 3000
 
 In general, users have to register a username to start. In order to send message, user types into chatbox and press send.
  
